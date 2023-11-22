@@ -2,7 +2,7 @@ import "./App.css";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import EmployeeForm from "./components/EmployeeForm";
 
-// import ProductCard from './components/ProductCard';
+import ProductCard from "./components/ProductCard";
 import GeneralTable from "./components/GeneralTable";
 
 function App() {
